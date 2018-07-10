@@ -1,3 +1,4 @@
+//Aluno: Yuri Sousa Bastos Weber   Matricula: 11711EAU015
 #include <stdio.h>
 #include <math.h>
 
