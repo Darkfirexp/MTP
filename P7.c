@@ -21,9 +21,9 @@ int main()
 {
 	int k, n;
 	printf("\nDigite o valor de k: ");
-	scanf("%d", &m);
+	scanf("%d", &k);
 	printf("\nDigite o valor de l: ");
-	scanf("%d", &n);
+	scanf("%d", &l);
 	printf("\nO resultado da funcao sera: %d", ackermann_function(k,l));
 	return 0;
 }
