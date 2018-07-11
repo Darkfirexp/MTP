@@ -19,7 +19,7 @@ int ackermann_function(int k, int l)
 
 int main()
 {
-	int k, n;
+	int k, l;
 	printf("\nDigite o valor de k: ");
 	scanf("%d", &k);
 	printf("\nDigite o valor de l: ");
