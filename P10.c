@@ -134,8 +134,8 @@ int main()
 	p = malloc(sizeof(Produto));
 	do
 	{
-		printf("Produtos em memoria: %d\n\n1 - Consultar\n2 - Cadastrar novo\n3 - Carregar de arquivo para memoria (sobrescreve memoria)"
-				"\n4 - Salvar memoria em arquivo (sobrescreve arquivo)\n0 - Sair\n\nOpcao escolhida: ", cont);
+		printf("Produtos em memoria: %d\n\n1 - Consulta\n2 - Cadastrar novo produto\n3 - Carregar de arquivo para memoria (sobrescreve memoria)"
+				"\n4 - Salvar memoria para arquivo (sobrescrevera o arquivo)\n0 - Sair\n\nOpcao escolhida: ", cont);
 		scanf("%d", &op); getchar();
 		switch(op)
 		{
